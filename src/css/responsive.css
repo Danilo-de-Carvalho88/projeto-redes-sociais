@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@media (max-width: 700px) {
+    section#redes-sociais {
+        display: flex;
+        flex-direction: row;
+       justify-content: center;
+    }
+}
